@@ -1,0 +1,42 @@
+; Field definition file for table: ADORecordset
+DocId	string	255	D1    SI 2014     170	
+Sr	number	1	
+SaleOrder	string	255		
+SaleOrderSr	number	0	
+SaleChallan	string	255	D1    SI 2014     170	
+SaleChallanSr	number	1	
+BaleNo	string	255		
+Item	string	255	D10013	
+ItemManualCode	string	255	1006	
+SalesTaxGroupItem	string	255	FMCG	
+DocQty	number		
+Qty	number	1	
+Unit	string	255	Pcs	
+MeasurePerPcs	number	0	
+MeasureUnit	string	255	Pcs	
+TotalDocMeasure	number		
+TotalMeasure	number	0	
+Rate	number	275	
+Amount	number	275	
+ReferenceDocId	string	255		
+LotNo	string	255		
+UID	string	255		
+Specification	string	255		
+Gross_Amount	number	275	
+Sales_Tax_Taxable_Amt	number	241.23	
+Vat_Per	number	14	
+Vat	number	33.77	
+Cst_Per	number	0	
+Cst	number	0	
+Total_Price	number	275	
+Discount_Per	number	0	
+Discount	number	0	
+Other_Charges_Per	number	0	
+Other_Charges	number	0	
+Round_Off	number	0	
+Net_Amount	number	275	
+ItemDesc	string	255	NONI CAPS.	
+V_Date	date	14/Jun/2014 12:00:00 AM	
+ReferenceNo	string	255	14-0170	
+SaleToPartyName	string	255	D. P. SINGH {51200002}	
+Remark	string	255		

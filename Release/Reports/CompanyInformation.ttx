@@ -1,0 +1,12 @@
+; Field definition file for table: ADORecordset
+CompanyName	string	255	SHREE AMPLE MARKETING	
+Add1	string	255	128/187 Y1 KIDWAI NAGAR	
+Add2	string	255	Kanpur	
+Add3	string	255		
+City	string	255	KANPUR	
+Phone	string	255	09305907033	
+Fax	string	255	-	
+Pin	string	255	208011	
+Email	string	255	marketingample@gmail.com	
+CSTNo	string	255	-	
+TIN	string	255	09337521309	

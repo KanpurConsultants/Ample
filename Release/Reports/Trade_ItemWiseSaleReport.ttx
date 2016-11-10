@@ -1,0 +1,42 @@
+; Field definition file for table: ADORecordset
+DocId	string	255	D1    SI 2012       1	
+Sr	number	1	
+SaleOrder	string	255		
+SaleOrderSr	number	0	
+SaleChallan	string	255	D1    SI 2012       1	
+SaleChallanSr	number	1	
+BaleNo	string	255		
+Item	string	255	D10001	
+ItemManualCode	string	255	1001	
+SalesTaxGroupItem	string	255	NA	
+DocQty	number		
+Qty	number	2	
+Unit	string	255	Pcs	
+MeasurePerPcs	number	0	
+MeasureUnit	string	255		
+TotalDocMeasure	number		
+TotalMeasure	number	0	
+Rate	number	150	
+Amount	number	300	
+ReferenceDocId	string	255		
+LotNo	string	255		
+UID	string	255		
+Specification	string	255		
+Gross_Amount	number	300	
+Sales_Tax_Taxable_Amt	number	285.714285714286	
+Vat_Per	number	5	
+Vat	number	14.2857143	
+Cst_Per	number	0	
+Cst	number	0	
+Total_Price	number	300	
+Discount_Per	number	0	
+Discount	number	0	
+Other_Charges_Per	number	0	
+Other_Charges	number	0	
+Round_Off	number	0	
+Net_Amount	number	300	
+ItemDesc	string	255	SPIRULINA	
+V_Date	date	03/Aug/2012 12:00:00 AM	
+ReferenceNo	string	255	SI-1	
+SaleToPartyName	string	255	ADESH KUMAR SAXENA	
+Remark	string	255		
