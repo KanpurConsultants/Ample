@@ -14,7 +14,7 @@ Module MdlFunction
             ClsMain_Accounts = New AgAccounts.ClsMain(AgL)
 
             AgL.PubDBUserSQL = "sa"
-            AgL.PubDBPasswordSQL = ""
+            AgL.PubDBPasswordSQL = "P@ssw0rd!"
             AgL.PubServerName = AgL.INIRead(StrIniPath, "Server", "Name", "")
             AgL.PubReportPath = AgL.INIRead(StrIniPath, "Reports", "Path", "")
             AgL.PubCompanyDBName = AgL.INIRead(StrIniPath, "CompanyInfo", "Path", "")
@@ -25,7 +25,7 @@ Module MdlFunction
             AgL.PubReportPath_Utility = AgL.INIRead(StrIniPath, "Reports", "Utility", AgL.PubReportPath)
 
             AgL.PubReportPath = My.Application.Info.DirectoryPath & "\Reports"
-            AgIniVar = New AgLibrary.ClsIniVariables(AgL)
+            AgIniVar = New ClsIniVariables(AgL)
 
             BlnRtn = AgIniVar.FOpenIni(StrUserName, StrPassword)
 

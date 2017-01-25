@@ -8,7 +8,7 @@ Public Class ClsMain
     Sub New(ByVal AgLibVar As AgLibrary.ClsMain)
         AgL = AgLibVar
         AgPL = New AgLibrary.ClsPrinting(AgL)
-        AgIniVar = New AgLibrary.ClsIniVariables(AgL)
+        AgIniVar = New ClsIniVariables(AgL)
 
         ClsMain_Structure = New AgStructure.ClsMain(AgL)
         ClsMain_Purchase = New Purchase.ClsMain(AgL)

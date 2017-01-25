@@ -1,17 +1,17 @@
 ; Field definition file for table: ADORecordset
-DocID	string	255	D1    SI 2012       1	
+DocID	string	255	D1    SI 2014       1	
 V_Type	string	255	SI	
-V_Prefix	string	255	2012	
-V_Date	date	03/Aug/2012 12:00:00 AM	
+V_Prefix	string	255	2014	
+V_Date	date	4/1/2014 12:00:00 AM	
 V_No	long	1	
 Div_Code	string	255	D	
 Site_Code	string	255	1	
-ReferenceNo	string	255	SI-1	
-Godown	string	255	D10001	
+ReferenceNo	string	255	14-0001	
+Godown	string	255		
 Vendor	string	255		
-SaleToParty	string	255	D10026	
-SaleToPartyName	string	255	ADESH KUMAR SAXENA {51200026}	
-SaleToPartyAddress	string	255	H.NO-650, E.W.S, BARRA 2, D/S JANTA NAGAR, BARRA	
+SaleToParty	string	255	D10115	
+SaleToPartyName	string	255	CHANDRA PAL	
+SaleToPartyAddress	string	255		
 SaleToPartyCity	string	255	D00001	
 SaleToPartyMobile	string	255		
 SaleToPartyTinNo	string	255		
@@ -49,94 +49,94 @@ ReferenceDocId	string	255
 Remarks	string	255		
 TotalQty	number	6	
 TotalMeasure	number	0	
-TotalAmount	number	670	
+TotalAmount	number	1175	
 EntryBy	string	255	sa	
-EntryDate	date	19/Dec/2012 11:46:00 PM	
-EntryType	string	255	Edit	
-EntryStatus	string	255	Open	
-ApproveBy	string	255	abhi	
-ApproveDate	date	09/Sep/2012 10:10:00 PM	
+EntryDate	date	4/1/2014 12:32:00 PM	
+EntryType	string	255	Add	
+EntryStatus	string	255	Add	
+ApproveBy	string	255		
+ApproveDate	date		
 MoveToLog	string	255		
 MoveToLogDate	date		
 IsDeleted	boolean		
 Status	string	255	Active	
-UID	string	255	0ee0eb59-85d2-41e2-96d8-51413faf7008	
-PaymentMode	string	255	Cash	
+UID	string	255		
+PaymentMode	string	255		
 TableCode	string	255		
 PostingAc	string	255		
-SaleToPartyAdd1	string	255		
+SaleToPartyAdd1	string	255	VILL-RARAUK, PO-KHANPUR,	
 SaleToPartyAdd2	string	255		
 CustomFields	string	255		
 CreditLimit	number	0	
-BaleNoStr	string	255	-	
+BaleNoStr	string	255		
 InvoiceGenType	string	255	Direct	
 TotalDeliveryMeasure	number	0	
-TotalBale	number	3	
+TotalBale	number	4	
 SaleOrder1	string	255		
 SaleOrderSr	number	0	
-SaleChallan1	string	255	D1    SI 2012       1	
+SaleChallan1	string	255	D1    SI 2014       1	
 SaleChallanSr	number	1	
 Item	string	255	D10001	
 Specification	string	255		
 SalesTaxGroupItem	string	255	NA	
 DocQty	number		
-Qty	number	2	
+Qty	number	1	
 Unit	string	255	Pcs	
 MeasurePerPcs	number	0	
 MeasureUnit	string	255		
 TotalDocMeasure	number		
 TotalMeasure1	number	0	
 Rate	number	150	
-Amount	number	300	
+Amount	number	150	
 ReferenceDocId1	string	255		
 LotNo	string	255		
 UID1	string	255		
-BusinessVolume	number	180	
-PointValue	number	12	
+BusinessVolume	number	90	
+PointValue	number	6	
 BaleNo	string	255		
 Remark	string	255		
-BillingType1	string	255		
+BillingType1	string	255	Qty	
 Item_UID	string	255		
 ItemInvoiceGroup	string	255		
-SaleInvoice	string	255	D1    SI 2012       1	
+SaleInvoice	string	255	D1    SI 2014       1	
 SaleInvoiceSr	number	1	
 DeliveryMeasure	string	255		
-DeliveryMeasureMultiplier	number	0	
+DeliveryMeasureMultiplier	number	1	
 TotalDeliveryMeasure1	number	0	
 RateType	string	255		
 ItemDesc	string	255	SPIRULINA	
 ItemManualCode	string	255	1001	
-GodownDesc	string	255	Main Godown	
-PartyName	string	255	ADESH KUMAR SAXENA {51200026}	
-PartyManualCode	string	255	51200026	
-Add1	string	255		
+GodownDesc	string	255		
+PartyName	string	255	CHANDRA PAL	
+PartyManualCode	string	255	51200114	
+Add1	string	255	VILL-RARAUK, PO-KHANPUR,	
 Add2	string	255		
 Add3	string	255		
 CityName	string	255	Kanpur	
 BillToPartyName	string	255	Cash A/c	
-H_Gross_Amount	number	670	
-H_Sales_Tax_Taxable_Amt	number	629.07	
+H_Gross_Amount	number	1175	
+H_Sales_Tax_Taxable_Amt	number	1098.38	
 H_Vat_Per	number	0	
-H_Vat	number	40.93	
+H_Vat	number	76.62	
 H_Cst_Per	number	0	
 H_Cst	number	0	
-H_Total_Price	number	670	
+H_Total_Price	number	1175	
 H_Other_Charges_Per	number	0	
 H_Other_Charges	number	0	
 H_Discount_Per	number	0	
 H_Discount	number	0	
 H_Round_Off	number	0	
-H_Net_Amount	number	670	
-L_Gross_Amount	number	300	
-L_Sales_Tax_Taxable_Amt	number	285.714285714286	
+H_Net_Amount	number	1175	
+L_Gross_Amount	number	150	
+L_Sales_Tax_Taxable_Amt	number	142.86	
 L_Vat_Per	number	5	
-L_Vat	number	14.2857143	
+L_Vat	number	7.14	
 L_Cst_Per	number	0	
 L_Cst	number	0	
-L_Total_Price	number	300	
+L_Total_Price	number	150	
 L_Other_Charges_Per	number	0	
 L_Other_Charges	number	0	
 L_Discount_Per	number	0	
 L_Discount	number	0	
 L_Round_Off	number	0	
-L_Net_Amount	number	300	
+L_Net_Amount	number	150	

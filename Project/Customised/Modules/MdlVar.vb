@@ -7,7 +7,7 @@ Module MdlVar
     Public AgL As AgLibrary.ClsMain
     Public AgCL As New AgControls.AgLib()
     Public AgPL As AgLibrary.ClsPrinting
-    Public AgIniVar As AgLibrary.ClsIniVariables
+    Public AgIniVar As ClsIniVariables
 
     Public DtCommon_Enviro As DataTable = Nothing
     Public ClsMain_Structure As AgStructure.ClsMain

@@ -111,6 +111,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class\ClsFunction.vb" />
+    <Compile Include="Class\ClsIniVariables.vb" />
     <Compile Include="Class\ClsMain.vb" />
     <Compile Include="Class\ClsProj.vb" />
     <Compile Include="Class\ClsReportProcedures.vb" />

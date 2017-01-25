@@ -498,3 +498,28 @@ E:\PerPen\Projects\Ample\Project\Customised\obj\Debug\Customised.FrmCity.resourc
 E:\PerPen\Projects\Ample\Project\Customised\obj\Debug\Customised.FrmPaymentReceipt.resources
 E:\PerPen\Projects\Ample\Project\Customised\obj\Debug\Customised.Resources.resources
 E:\PerPen\Projects\Ample\Project\Customised\obj\Debug\Customised.vbproj.GenerateResource.Cache
+D:\Projects\New folder\Ample\Release\Customised.exe
+D:\Projects\New folder\Ample\Release\Customised.pdb
+D:\Projects\New folder\Ample\Release\Customised.xml
+D:\Projects\New folder\Ample\Project\Customised\obj\Debug\Customised.vbprojResolveAssemblyReference.cache
+D:\Projects\New folder\Ample\Project\Customised\obj\Debug\Customised.FrmDebitCreditNote.resources
+D:\Projects\New folder\Ample\Project\Customised\obj\Debug\Customised.FrmDifferentialIncome.resources
+D:\Projects\New folder\Ample\Project\Customised\obj\Debug\Customised.FrmDistributer.resources
+D:\Projects\New folder\Ample\Project\Customised\obj\Debug\Customised.FrmDIstributerQuery.resources
+D:\Projects\New folder\Ample\Project\Customised\obj\Debug\Customised.FrmDuesPaymentEnviro.resources
+D:\Projects\New folder\Ample\Project\Customised\obj\Debug\Customised.FrmEnviro.resources
+D:\Projects\New folder\Ample\Project\Customised\obj\Debug\Customised.FrmItem.resources
+D:\Projects\New folder\Ample\Project\Customised\obj\Debug\Customised.FrmItemCategory.resources
+D:\Projects\New folder\Ample\Project\Customised\obj\Debug\Customised.FrmItemGroup.resources
+D:\Projects\New folder\Ample\Project\Customised\obj\Debug\Customised.FrmSaleInvoice.resources
+D:\Projects\New folder\Ample\Project\Customised\obj\Debug\Customised.FrmSaleInvoiceChallanList.resources
+D:\Projects\New folder\Ample\Project\Customised\obj\Debug\Customised.FrmParty.resources
+D:\Projects\New folder\Ample\Project\Customised\obj\Debug\Customised.FrmSaleInvoicePartyDetail.resources
+D:\Projects\New folder\Ample\Project\Customised\obj\Debug\Customised.MDIMain.resources
+D:\Projects\New folder\Ample\Project\Customised\obj\Debug\Customised.FrmCity.resources
+D:\Projects\New folder\Ample\Project\Customised\obj\Debug\Customised.FrmPaymentReceipt.resources
+D:\Projects\New folder\Ample\Project\Customised\obj\Debug\Customised.Resources.resources
+D:\Projects\New folder\Ample\Project\Customised\obj\Debug\Customised.vbproj.GenerateResource.Cache
+D:\Projects\New folder\Ample\Project\Customised\obj\Debug\Customised.exe
+D:\Projects\New folder\Ample\Project\Customised\obj\Debug\Customised.xml
+D:\Projects\New folder\Ample\Project\Customised\obj\Debug\Customised.pdb
